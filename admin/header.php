@@ -52,7 +52,7 @@
                         <i class="fas fa-fw fa-tools"></i> Pengaturan
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#"><i class="fas fa-fw fa-key"></i> Ganti Password</a>
+                        <a class="dropdown-item" href="ganti_pass.php"><i class="fas fa-fw fa-key"></i> Ganti Password</a>
                     </div>
                 </li>
             </ul>
